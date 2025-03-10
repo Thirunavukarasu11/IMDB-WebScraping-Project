@@ -29,4 +29,3 @@ Jupyter Notebook (for writing and running the project)
 📂 Files in the Repository
 Webscrapping_IMDB.ipynb: Jupyter notebook containing the code for scraping IMDb data and performing analysis.
 requirements.txt: A list of required libraries to install to run this project.
-
